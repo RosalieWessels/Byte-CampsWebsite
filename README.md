@@ -1,2 +1,2 @@
-# ByteCampsWebsite - bytecamps.com
+# ByteCampsWebsite - byte-camps.dev
 the website of bytecamps
